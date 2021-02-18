@@ -1,4 +1,4 @@
-package bot
+package Bot
 
 import java.util.Scanner
 
